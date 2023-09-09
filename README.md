@@ -8,10 +8,10 @@
 主要参考了https://github.com/mateusnbm/dipole-antenna-mom ，然后自己改了一下代码的结构，用python的pyqt5库写了gui界面，补充了远场方向图的算法公式，最终效果如下图。
 
 
-![输入参数](.\\graphs\\Picture1.png "输出参数")
+![输入参数](./graphs/Picture1.png "输出参数")
 
 
-![显示结果](.\\graphs\\Picture2.png "显示结果")
+![显示结果](./graphs/Picture2.png "显示结果")
 
 
 由于不太熟悉pyqt5，致使打包成exe文件后过大，所以在此仅给出了python代码。
